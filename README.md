@@ -1,4 +1,14 @@
-👋Hi, I'm Astika Rana, a B.Tech Computer Science (AI & ML) student and Software Engineer Intern.<br><br>🔭 Currently working on AI-powered financial applications and automation systems<br><br>🧠 Exploring LLMs, AI Agents, RAG, Prompt Engineering, and Full Stack Development<br><br>💻 Tech Stack: Python, FastAPI, React.js, Next.js, MongoDB, SQL<br><br>🚀 Passionate about building scalable AI products that solve real business problems<br><br>🤝 Looking to collaborate on AI, GenAI, Automation, and Full Stack projects<br><br>📫 Contact: astikarana2005@gmail.com
+<h1 align="center">👋 Hi, I'm Astika Rana</h1>
+
+**A passionate AI & Full-Stack Developer || Software Engineer Intern || GenAI Enthusiast from India**
+
+- 👋 Hi, I'm Astika Rana, a B.Tech Computer Science (AI & ML) student and Software Engineer Intern.
+- 🔭 Currently working on AI-powered financial applications and automation systems
+- 🧠 Exploring LLMs, AI Agents, RAG, Prompt Engineering, and Full Stack Development
+- 💻 Tech Stack: Python, FastAPI, React.js, Next.js, MongoDB, SQL
+- 🚀 Passionate about building scalable AI products that solve real business problems
+- 🤝 Looking to collaborate on AI, GenAI, Automation, and Full Stack projects
+- 📫 Contact: astikarana2005@gmail.com
 
 
 ## 🌐 Socials:
